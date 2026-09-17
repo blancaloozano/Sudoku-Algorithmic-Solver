@@ -18,7 +18,6 @@ This project presents an algorithmic Sudoku solver developed in Python. The main
 
 ## Example Output
 ```text
-```text
 Original Sudoku (expert):
 
 ---------------------
