@@ -16,6 +16,13 @@ This project presents an algorithmic Sudoku solver developed in Python. The main
 
 *'\report'*: Contains the detailed theoretical analysis and algorithmic breakdown ('project_report.pdf')
 
+## Example Output
+
+Unsolved Board (Expert):
+5 3 0 | 0 7 0 | 0 0 0               5 3 4 | 6 7 8 | 9 1 2
+6 0 0 | 1 9 5 | 0 0 0               6 7 2 | 1 9 5 | 3 4 8
+0 9 8 | 0 0 0 | 0 6 0      ----->   1 9 8 | 3 4 2 | 5 6 7 
+
 ## Algorithmic Conclusions
 
 While standard Backtracking is straightforward and easy to implement, Branch and Bound presents a significantly more efficient approach for complex scenarios. 
