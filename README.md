@@ -10,11 +10,11 @@ This project presents an algorithmic Sudoku solver developed in Python. The main
 
 ## Project Structure
 
-*'\src'*: Contains the main source coude ('main.py', 'solver_backtracking.py', 'solver_branchbound.py', 'utils.py').
+*'\src'*: Contains the main source code ('main.py', 'solver_backtracking.py', 'solver_branchbound.py', 'utils.py').
 
 *'\levels'*: Text files containing Sudoku matrices categorized by difficulty.
 
-*'\report'*: Contains the detailed theoretical analysis and algorithmic breakdown ('project_report.py')
+*'\report'*: Contains the detailed theoretical analysis and algorithmic breakdown ('project_report.pdf')
 
 ## Algorithmic Conclusions
 
