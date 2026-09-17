@@ -14,7 +14,18 @@ This project presents an algorithmic Sudoku solver developed in Python. The main
 
 *'\levels'*: Text files containing Sudoku matrices categorized by difficulty.
 
-*'\report'*: Detaield explanation on the code and performance analysis ('project_report.py')
+*'\report'*: Contains the detailed theoretical analysis and algorithmic breakdown ('project_report.py')
+
+## Algorithmic Conclusions
+
+While standard Backtracking is straightforward and easy to implement, Branch and Bound presents a significantly more efficient approach for complex scenarios. 
+
+## Additional Notes
+
+To execute the solver, run the main script from the root directory: 'python src/main.py'
+
+*This project was done as a final project for the subject 'Programming 2' of Bachelor in Data Science and Engineering
+at CEU University.*
 
 
 
